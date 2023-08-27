@@ -12,8 +12,13 @@ like Visual Studio Code, XAMPP, and Bootstrap, AJAX, and JQuery plugings.
 
                              Features of the project for a personal information management system:
                                                
-                                            •	Request & View For Foods
-                                            •	Order Food List
-                                            •	Price Calculation
-                                            •	Make Necessary Pyment
+                                            •	User Registration
+                                            •	User login system
+                                            •	Change password
+                                            •	Forgot password
+                                            •	Profile management system
+                                            •	Registering Persons
+                                            •	Manage preson details(edit,update and delete)
+                                            •	Registering and managing system users(Admins)
+                                            •	Audit logs
 
