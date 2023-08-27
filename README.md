@@ -17,8 +17,8 @@ like Visual Studio Code, XAMPP, and Bootstrap, AJAX, and JQuery plugings.
                                           •	Change password
                                           •	Forgot password
                                           •	Profile management system
-                                            •	Registering Persons
-                                            •	Manage preson details(edit,update and delete)
-                                            •	Registering and managing system users(Admins)
-                                            •	Audit logs
+                                          •	Registering Persons
+                                          •	Manage preson details(edit,update and delete)
+                                          •	Registering and managing system users(Admins)
+                                          •	Audit logs
 
