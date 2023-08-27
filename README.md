@@ -8,3 +8,12 @@ individual, such as their name, age, place of residence, phone number, email add
 of the student's personal information, including their passport-size photo, as well as their family and past employers' details. From the administration of person details area, 
 users can also add and update persons.To create this system, I drew on my knowledge of computer languages like JavaScript, PHP, HTML5, and CSS3, as well as development tools 
 like Visual Studio Code, XAMPP, and Bootstrap, AJAX, and JQuery plugings. 
+
+
+                             Features of the project for a personal information management system:
+                                               
+                                            •	Request & View For Foods
+                                            •	Order Food List
+                                            •	Price Calculation
+                                            •	Make Necessary Pyment
+
