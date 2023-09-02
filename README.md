@@ -7,7 +7,7 @@ called PIMS is used to collect, show, archive, and report information from a ran
 individual, such as their name, age, place of residence, phone number, email address, physical description, and information about their parents and kids.You may manage all 
 of the student's personal information, including their passport-size photo, as well as their family and past employers' details. From the administration of person details area, 
 users can also add and update persons.To create this system, I drew on my knowledge of computer languages like JavaScript, PHP, HTML5, and CSS3, as well as development tools 
-like Visual Studio Code, XAMPP, and Bootstrap, AJAX, and JQuery plugings.    
+like Visual Studio Code, XAMPP, and Bootstrap, AJAX, and JQuery plugings.     
  
 
                              Features of the project for a personal information management system:
